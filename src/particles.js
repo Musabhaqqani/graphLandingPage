@@ -33,7 +33,7 @@ export default function useParticles(){
                     },
                     onHover: {
                         enable: true,
-                        mode: "repulse",
+                        mode: "grab",
                     },
                     
                 },
